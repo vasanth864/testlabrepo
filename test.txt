@@ -6,3 +6,4 @@ merging the branches
 Editied by master branch
 >>>>>>> 4a87b5c286edda6819d9109c0805f5c24db2e9f5
 to merge the branch
+practice test
